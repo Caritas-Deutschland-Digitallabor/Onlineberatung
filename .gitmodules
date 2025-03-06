@@ -1,0 +1,3 @@
+[submodule "caritas-rework-onlineBeratung-frontend"]
+	path = caritas-rework-onlineBeratung-frontend
+	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-frontend
