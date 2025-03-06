@@ -5,8 +5,8 @@
 	path = userService
 	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-userService
 [submodule "mailService"]
-	path = userService
+	path = mailService
 	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-mailService
 [submodule "agencyService"]
-	path = userService
+	path = agencyService
 	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-agencyService
