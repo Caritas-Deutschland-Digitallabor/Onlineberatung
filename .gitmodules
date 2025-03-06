@@ -4,3 +4,27 @@
 [submodule "caritas-rework-onlineBeratung-userService"]
 	path = caritas-rework-onlineBeratung-userService
 	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-userService
+[submodule "caritas-rework-onlineBeratung-agencyService"]
+	path = caritas-rework-onlineBeratung-agencyService
+	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-agencyService
+[submodule "caritas-rework-onlineBeratung-mailService"]
+	path = caritas-rework-onlineBeratung-mailService
+	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-mailService
+[submodule "caritas-rework-onlineBeratung-uploadService"]
+	path = caritas-rework-onlineBeratung-uploadService
+	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-uploadService
+[submodule "caritas-rework-onlineBeratung-liveService"]
+	path = caritas-rework-onlineBeratung-liveService
+	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-liveService
+[submodule "caritas-rework-onlineBeratung-consultingTypeService"]
+	path = caritas-rework-onlineBeratung-consultingTypeService
+	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-consultingTypeService
+[submodule "caritas-rework-onlineBeratung-tenantService"]
+	path = caritas-rework-onlineBeratung-tenantService
+	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-tenantService
+[submodule "caritas-rework-onlineBeratung-statisticsService"]
+	path = caritas-rework-onlineBeratung-statisticsService
+	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-statisticsService
+[submodule "caritas-rework-onlineBeratung-videoService"]
+	path = caritas-rework-onlineBeratung-videoService
+	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-videoService
