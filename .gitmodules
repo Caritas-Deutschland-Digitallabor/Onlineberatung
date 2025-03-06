@@ -1,12 +1,6 @@
 [submodule "frontend"]
 	path = onlineBeratung-frontend
 	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-frontend
-[submodule "userService"]
-	path = userService
+[submodule "caritas-rework-onlineBeratung-userService"]
+	path = caritas-rework-onlineBeratung-userService
 	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-userService
-[submodule "mailService"]
-	path = mailService
-	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-mailService
-[submodule "agencyService"]
-	path = agencyService
-	url = https://github.com/Caritas-Deutschland-Digitallabor/caritas-rework-onlineBeratung-agencyService
